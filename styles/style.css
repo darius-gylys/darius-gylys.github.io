@@ -1,0 +1,49 @@
+.top_banner {
+    height: 140px;
+    background-color: black;
+}
+
+.headline {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 800px;
+    color: white;
+}
+
+.headline h1 {
+    position: relative;
+    top: 45px;
+    text-align: left;
+    margin-left: 60px;
+}
+
+.banner_image {
+    position: relative;
+    top: -56px;
+    float: right;
+    height: 140px;
+}
+
+.first_row {
+    width: 100%;
+}
+
+.grey_wrap {
+    padding: 20px;
+    border: 1px solid grey;
+}
+
+.inserted-row {
+    margin-bottom: 5px;
+}
+
+.release_date {
+    font-size: .75rem;
+}
+
+.overview {
+    font-size: 1rem;
+}
+
+.thumbnail {
+    width: 100%;
+}
